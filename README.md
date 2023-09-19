@@ -7,3 +7,5 @@
     <a href="https://www.linkedin.com/in/luana-martins-arimitsu-676874242/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
     <a href="https://www.instagram.com/luaarimitsu/"><img src="https://skillicons.dev/icons?i=instagram"></a>
   </p>
+
+  https://fooodiish.netlify.app/
