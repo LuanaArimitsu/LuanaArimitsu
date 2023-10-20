@@ -8,4 +8,4 @@
     <a href="https://www.instagram.com/luaarimitsu/"><img src="https://skillicons.dev/icons?i=instagram"></a>
   </p>
 
-  https://fooodiish.netlify.app/
+
